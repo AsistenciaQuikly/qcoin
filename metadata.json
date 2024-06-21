@@ -4,7 +4,7 @@
     "description": "Cryptocurrency managed on the Quickly Group network",
     "image": "https://raw.githubusercontent.com/AsistenciaQuikly/qcoin/main/logo.png",
     "extensions": {
-      "website": "https://quiklypay.com/web/quiklycoin",
-      "twitter": "https://x.com/quiklypay"
+      "website": "https://qcoin.pro",
+      "twitter": "https://twitter.com/quiklycoin"
     }
   }
